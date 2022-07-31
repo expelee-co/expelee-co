@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome to the world of EXPELEE :earth_asia: :rocket:
 
-<!--
-**expelee-co/expelee-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![expelee long photo](https://user-images.githubusercontent.com/104678268/182022615-7584bf04-9a83-4bc5-b47b-43651cf47c7e.jpg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Expelee is a community driven organisation dedicated to fostering an anti-rug movement. 
+We're here to keep investment safe from fraudsters.
+We've encountered several rug pulls and know how it feels to be duped, which is why we don't want anybody else to go through the same experience.
+We are here to raise awareness through our services so that the future of cryptocurrency can be rug-free**
+
+### IMPORTANT LINKS :bell:
+
+`WEBSITE:` https://expelee.com/  
+
+`AUDIT AND KYC:` https://github.com/expelee-co  
+
+`TWITTER:` https://twitter.com/ExpeleeOfficial
+
+`TELEGRAM:` https://t.me/Expelee
+
+`EMAIL (CONTACT US): `business@expelee.com
