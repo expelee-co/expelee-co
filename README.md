@@ -1,7 +1,7 @@
 
 # Welcome to the world of EXPELEE :earth_asia: :rocket:
+![linkdin banner](https://user-images.githubusercontent.com/104678268/182036697-b7249f6b-6cc0-41b7-aede-dd416d316baa.jpg)
 
- ![expelee long photo](https://user-images.githubusercontent.com/104678268/182022615-7584bf04-9a83-4bc5-b47b-43651cf47c7e.jpg)
 
 
 **Expelee is a community driven organisation dedicated to fostering an anti-rug movement. 
