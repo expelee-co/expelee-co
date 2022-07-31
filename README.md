@@ -1,5 +1,5 @@
-## Hi There :wave:
-# Welcome to the World of EXPELEE :earth_asia: :rocket:
+
+# Welcome to the world of EXPELEE :earth_asia: :rocket:
 
  ![expelee long photo](https://user-images.githubusercontent.com/104678268/182022615-7584bf04-9a83-4bc5-b47b-43651cf47c7e.jpg)
 
