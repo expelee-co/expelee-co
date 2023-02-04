@@ -19,11 +19,11 @@
 
 - 📝 We regularly write articles on [https://medium.com/@expelee](https://medium.com/@expelee)
 
-- 💬 Ask us about **any requirements and service you want in WEB3 we are you to provide them to you.**
+- 💬 Ask us about **any requirements and service you want in WEB3**
 
 - 📫 Reach us at **business@expelee.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us on:</h3>
 <p align="left">
 <a href="https://twitter.com/expeleeofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="expeleeofficial" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/company/expelee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/expelee/" height="30" width="40" /></a>
