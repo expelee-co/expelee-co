@@ -11,17 +11,17 @@
 
 <p align="left"> <a href="https://twitter.com/expeleeofficial" target="blank"><img src="https://img.shields.io/twitter/follow/expeleeofficial?logo=twitter&style=for-the-badge" alt="expeleeofficial" /></a> </p>
 
-- 🔭 We currently working to **provide you services Like Audit Smart Contracts, Daaps, Nft creation Token Creation and many more.**
+- 🔭 We are currently working to **provide you services Like Audit Smart Contracts, Daaps, Nft creation Token Creation and many more.**
 
-- 🌱 We currently working with **tools and softwares like redhat,solidity,rust,slither,mythrill and many more**
+- 🌱 We are currently working with **tools and softwares like redhat,solidity,rust,slither,mythrill and many more**
 
 - 👨‍💻 All our projects are available at [https://github.com/expelee-co](https://github.com/expelee-co)
 
 - 📝 We regularly write articles on [https://medium.com/@expelee](https://medium.com/@expelee)
 
-- 💬 Ask me about **any requirements and service you want in WEB3 we are you to provide them to you.**
+- 💬 Ask us about **any requirements and service you want in WEB3 we are you to provide them to you.**
 
-- 📫 How to reach me **business@expelee.com**
+- 📫 Reach us at **business@expelee.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
