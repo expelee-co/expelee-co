@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/expeleeofficial" target="blank"><img src="https://img.shields.io/twitter/follow/expeleeofficial?logo=twitter&style=for-the-badge" alt="expeleeofficial" /></a> </p>
 
-- 🔭 We are currently working to **provide you services Like Audit Smart Contracts, Daaps, Nft creation Token Creation and many more.**
+- 🔭 We are currently working to **provide you services Like Smart Contract Audit, dApp Creation,Blockchain Game Development, Token Creation & many more.**
 
-- 🌱 We are currently working with **tools and softwares like redhat,solidity,rust,slither,mythrill and many more**
+- 🌱 We are currently working with **tools and softwares like redhat,solidity,rust,slither,mythrill & many more**
 
 - 👨‍💻 All our projects are available at [https://github.com/expelee-co](https://github.com/expelee-co)
 
