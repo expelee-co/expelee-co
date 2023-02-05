@@ -3,7 +3,7 @@
 ![linkdin banner](https://user-images.githubusercontent.com/104678268/182036697-b7249f6b-6cc0-41b7-aede-dd416d316baa.jpg)
 
 
-<h3 align="center">We offer a comprehensive suite of blockchain services designed to meet the diverse needs of businesses and individuals. Whether you're looking to get your Smart Contract audited, or a want decentralized application, we've got you covered. Our experienced team of blockchain experts work closely with you to understand your unique requirements and provide tailored solutions that drive innovation and growth.</h3>
+<h3 align="center">We offer a comprehensive suite of blockchain services designed to meet the diverse needs of businesses and individuals. Whether you’re looking to get your Smart Contract audited, or want a decentralized application, we’ve got everything covered. Our experienced team of blockchain experts works closely with clients to understand their unique requirements and provide tailored solutions that drive innovation and growth.</h3>
 
 
 
